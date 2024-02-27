@@ -4,7 +4,7 @@ const fs=require('fs');
 
 //crete file
 // fs.mkdirSync('read1.txt')
-
+//new module
 //write in file
 fs.writeFileSync('read.txt',"welcome to github");
 
